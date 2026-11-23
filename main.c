@@ -15,6 +15,6 @@ int main(void)
     {
         sum += i;
     }
-    printf("lld", sum);
+    printf("%lld", sum);
     return 0;
 }
